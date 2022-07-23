@@ -2,6 +2,6 @@
 
  Essa aula foi muito produtiva, pois através dela consegui por em pratica tudo que foi aprendido nas aulas anteriores
 
- ###Links de estudo foram:
+ ### Links de estudo foram:
 
  * [GitHub](https://github.com/SpruceGabriela/instagram-dio.git)
